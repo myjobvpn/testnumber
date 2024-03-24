@@ -1,0 +1,1 @@
+pretn("hello world")
